@@ -1,12 +1,3 @@
----
-name: Work Item
-about: Track a feature, task or enhancement
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Summary
 
 > Describe the implementation or behavior change.
